@@ -1,11 +1,11 @@
-(https://arturssmhttps://github.com/MDMahmudul-Hassan/MDMahmudul-Hassan/blob/main/Github%20Banner%20Image.pngirnovs.github.io/github-profile-readme-generator/images/banner.png)
+https://arturssmhttps://github.com/MDMahmudul-Hassan/MDMahmudul-Hassan/blob/main/Github%20Banner%20Image.pngirnovs.github.io/github-profile-readme-generator/images/banner.png
 
 #### As-salamu Alaykum. Greetings, I'm Md. Mahmudul Hassan
 ![As-salamu Alaykum. Greetings, I'm Md. Mahmudul Hassan]
 
 Hi, I'm Data Analyst addicted. Doing Honours in Management Information System at Independent University, Bangladesh.
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/20756086-Data-Analyst-Gif?added_first_shot=true")
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/20756086-Data-Analyst-Gif?added_first_shot=true">
 
 Skills: MySQL, SQL, SEO, WordPress
 
