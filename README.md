@@ -4,9 +4,7 @@
 
 Hi, I'm a Data Analyst addict. I am doing Honours in Management Information System at Independent University, Bangladesh.
 
-<img align="right" alt="Coding" width="250" src="https://github.com/MDMahmudul-Hassan/MDMahmudul-Hassan/blob/main/Data%20Analyst.gif">img {
-  border-radius: 20%;
-}
+<img align="right" alt="Coding" width="250" border-radius: 10pxsrc="https://github.com/MDMahmudul-Hassan/MDMahmudul-Hassan/blob/main/Data%20Analyst.gif">
 
 Skills: MySQL, SQL, SEO, WordPress
 
