@@ -1,8 +1,8 @@
-![Design and Development}(https://github.com/MDMahmudul-Hassan/MDMahmudul-Hassan/blob/main/GitHub%20Bannerr.jpg)
+![Design and Development}([https://github.com/MDMahmudul-Hassan/MDMahmudul-Hassan/blob/main/GitHub%20Bannerr.jpg](https://github.com/MDMahmudul-Hassan/MDMahmudul-Hassan/blob/main/GitHub%20Bannerr.jpg))
 
 #### As-salamu Alaykum. Greetings, I'm Md. Mahmudul Hassan
 
-Hi, I'm a Data Analyst addict. I am doing Honours in Management Information System at Independent University, Bangladesh.
+I'm a Data Analyst addict. I am doing Honours in Management Information System at Independent University, Bangladesh.
 
 <img align="right" alt="Coding" width="250" src="https://github.com/MDMahmudul-Hassan/MDMahmudul-Hassan/blob/main/Data%20Analyst.gif">
 
