@@ -1,4 +1,5 @@
-![Design and Development}([https://github.com/MDMahmudul-Hassan/MDMahmudul-Hassan/blob/main/GitHub%20Bannerr.jpg](https://github.com/MDMahmudul-Hassan/MDMahmudul-Hassan/blob/main/GitHub%20Bannerr.jpg))
+<img align="right" alt="Coding" src="[https://github.com/MDMahmudul-Hassan/MDMahmudul-Hassan/blob/main/Data%20Analyst.gif](https://github.com/MDMahmudul-Hassan/MDMahmudul-Hassan/blob/main/GitHub%20Bannerr.jpg)">
+
 
 #### As-salamu Alaykum. Greetings, I'm Md. Mahmudul Hassan
 
