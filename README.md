@@ -4,7 +4,7 @@
 
 I'm a Data Analyst addict. I am doing Honours in Management Information System at Independent University, Bangladesh.
 
-<img align="right" alt="Coding" width="250" src="https://github.com/MDMahmudul-Hassan/MDMahmudul-Hassan/blob/main/Data%20Analyst.gif" style="border-radius: 50%">
+<img align="right" alt="Coding" width="250" src="https://github.com/MDMahmudul-Hassan/MDMahmudul-Hassan/blob/main/Data%20Analyst.gif">
 
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on Data Analyst 
