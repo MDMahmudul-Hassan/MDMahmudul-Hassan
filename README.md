@@ -1,4 +1,4 @@
-<img  width="400" src="https://github.com/MDMahmudul-Hassan/MDMahmudul-Hassan/blob/main/GitHub%20Bannerr.jpg">
+<img  width="640" height="320" src="https://github.com/MDMahmudul-Hassan/MDMahmudul-Hassan/blob/main/GitHub%20Bannerr.jpg">
 
 #### As-salamu Alaykum. Greetings, I'm Md. Mahmudul Hassan
 
