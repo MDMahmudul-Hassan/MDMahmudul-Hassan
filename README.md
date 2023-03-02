@@ -9,7 +9,7 @@ I'm a Data Analyst addict. I am doing Honours in Management Information System a
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on Data Analyst 
 - 🤔 I’m looking for help with Data Analysis 
-- 💬 Ask me about SQL, SEO, WordPress 
+- 💬 Ask me about SQL, PowerBI, SEO, WordPress 
 - 📫 How to reach me: mhsabbir342431@gmail.com 
 
 
